@@ -1,6 +1,5 @@
 name: DynamicWorlds
 author: CapitainFoxy
-version: 1.0
 main: com.capitainfoxy.dynamicworlds.DynamicWorlds
 commands:
   world:
